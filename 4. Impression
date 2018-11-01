@@ -13,8 +13,8 @@ Pour démarrer une impression:
     
     vi.  Naviguer dans la liste et sélectionner le projet à imprimer 
    
-   vii.  Aussitôt que le projet est sélectionné, il faut naviguer vers ‘Extruder’ et remettre les températures a 110 degrées 
-         pour ‘Temp. Bed’ et 220C pour ‘Temp. 1’ 
+   vii.  Aussitôt que le projet est sélectionné, il faut naviguer vers ‘Extruder’ et remettre les températures a 110 degrés 
+         pour ‘Temp. Bed’ et 220 degrés pour ‘Temp. 1’ 
   
   viii.  L’imprimante va automatiquement aller vers le point ‘0’ pour se calibrer et tester un peu de PLA.  
     
