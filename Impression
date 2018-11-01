@@ -1,0 +1,32 @@
+- Impression - 
+
+Pour démarrer une impression:
+     i.  Insérer la carte MicroSD
+    
+    ii.  Peser le bouton de reglage 
+   
+   iii.  Sélectionner 'SD Card'
+    
+    iv.  Sélectionner 'Mount SD Card', si la carte n'est pas déjà reconnue
+     
+     v.  Sélectionner ‘Print Project’  
+    
+    vi.  Naviguer dans la liste et sélectionner le projet à imprimer 
+   
+   vii.  Aussitôt que le projet est sélectionné, il faut naviguer vers ‘Extruder’ et remettre les températures a 110 degrées 
+         pour ‘Temp. Bed’ et 220C pour ‘Temp. 1’ 
+  
+  viii.  L’imprimante va automatiquement aller vers le point ‘0’ pour se calibrer et tester un peu de PLA.  
+    
+    ix.  Prendre la pince et enlever autant que possible le PLA qui n’est pas déposer sur la plateforme avant que 
+         l’impression ne commence. 
+     
+     x.  Quand l’impression commence, il faut bien observer s’il y a des imperfections, s’il y en a et s’ils sont assez
+         déformé ou ne colle pas, il faut tout de suite annuler l’impression en insérant un objet mince dans le trou à 
+         gauche du bouton de réglage. 
+    
+    xi.  Si les objets ne collent pas, il faut soit augmenter la température de la plateforme ou nettoyer la plateforme. 
+         Les températures ne seront pas toujours les mêmes. Tous projets auront des configurations légèrement différentes.
+
+Pendant l’impression il faut garder la porte de la salle ouverte pour faire l’air circuler. L’odeur peut causer des 
+personnes à se sentir étourdi. 
