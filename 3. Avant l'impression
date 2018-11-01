@@ -15,10 +15,10 @@ Il faut commencer par préchauffer la plateforme et la tête:
     
     vi.  Sélectionner ‘Extruder’.
    
-   vii.  Augmenter ‘Bed Temp.’ à 110 degrées en le selectionnant et en tournant le bouton de réglage. 
+   vii.  Augmenter ‘Bed Temp.’ à 110 degrés en le selectionnant et en tournant le bouton de réglage. 
          Ceci augmente la temperature de la plateforme. Il faut noter que ce n'est plus temps de toucher la plateforme.
   
-  viii.  Naviguer vers ‘Temp.1’ et augmentez sa temperature à 220 degrées. Ceci augmente la temperature de la tete
+  viii.  Naviguer vers ‘Temp.1’ et augmentez sa temperature à 220 degrés. Ceci augmente la temperature de la tete
          de l'imprimante. il faut attendre environ 2-4 minutes.
     
     ix.  Vous verrez qu'un peu de PLA commencera a sortir de la tête.
