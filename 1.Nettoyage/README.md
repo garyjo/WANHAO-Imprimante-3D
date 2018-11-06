@@ -1,4 +1,4 @@
-# Nettoyer -
+# Nettoyer
 
 Avant de commencer à imprimer, il faut s’assurer que la plateforme soit propre. 
 Cela veut dire la nettoyer avec un produit avec au moins 70% d’alcool. 
@@ -8,6 +8,7 @@ Dans ce cas, c’est préférable de chauffer la tête à 195 degrés et essuyer
 La chaleur aide à décoller certains morceaux de PLA* qui ont fondu sur la tête. 
 
 Étapes pour nettoyer la plateforme:
+
     i.  Il faut commencer par lever la tête de l'imprimante, donc, pesez le bouton de réglage.
    
    ii.  Naviguez vers 'Position' et le selectionner.
