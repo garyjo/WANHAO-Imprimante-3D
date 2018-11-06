@@ -4,7 +4,7 @@
 
 #### Repartission des etapes pour l'utilisatoin
 
-[1.Nettoyer](./1.Nettoyer)
+[1.Nettoyer](./1.Nettoyage)
 
 [2.Calibration](./2.Calibration)
 
