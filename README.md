@@ -1,8 +1,8 @@
 # WANHAO-Imprimante-3D
 
-### Ce repertoire explique comment utiliser l'imprimante 3D WANHAO.
+### Ce répertoire explique comment utiliser l'imprimante 3D WANHAO.
 
-#### Repartission des etapes pour l'utilisation
+#### Répartition des étapes pour l'utilisation
 
 [1.Nettoyer](./1.Nettoyage)
 
