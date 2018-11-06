@@ -7,23 +7,23 @@ Il faut aussi nettoyer la tête de l’imprimante.
 Dans ce cas, c’est préférable de chauffer la tête à 195 degrés et essuyer avec un papier sec. 
 La chaleur aide à décoller certains morceaux de PLA* qui ont fondu sur la tête. 
 
-Étapes pour nettoyer la plateforme:
+## Étapes pour nettoyer la plateforme:
 
-    i.  Il faut commencer par lever la tête de l'imprimante, donc, pesez le bouton de réglage.
+    1.  Il faut commencer par lever la tête de l'imprimante, donc, pesez le bouton de réglage.
    
-   ii.  Naviguez vers 'Position' et le selectionner.
+    2.  Naviguez vers 'Position' et le selectionner.
   
-  iii.  Naviguez vers 'Z pos. Fast' et le selectionner.
+    3.  Naviguez vers 'Z pos. Fast' et le selectionner.
    
-   iv.  Pour faire la tête monter vous devez tourner bouton de réglage dans le sense des aiguilles d'une montre.  
+    4.  Pour faire la tête monter vous devez tourner bouton de réglage dans le sense des aiguilles d'une montre.  
         Continuez à tourner le bouton jusqu'à ce que la tête soit assez haut pour que le nettoyage soit possible, 
         facile et securitaire.
     
-    v.  Prennez du papier de nettoyage et une solution pour nettoyer avec au moins 70% d'alcool. 
+    5.  Prennez du papier de nettoyage et une solution pour nettoyer avec au moins 70% d'alcool. 
         mettez un peu d'alcool sur le papier et essuyez la plateforme tout en s'assurant que le papier 
         ne laisse pas de residue ou de poussier sur la plateforme.
    
-   vi.  Une fois que la plateforme est propre, assurez vous de ne pas la toucher car l'huile à
+    6.  Une fois que la plateforme est propre, assurez vous de ne pas la toucher car l'huile à
         partir des mains peut rendre la plateforme glissante. 
    
  Étapes pour nettoyer la tête:
