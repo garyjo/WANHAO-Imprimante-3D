@@ -2,7 +2,7 @@
 
 ### Ce repertoire est en faite une documentation sur comment faire marcher l'imprimante 3D WANHAO.
 
-#### Repartission des etapes pour l'utilisatoin
+#### Repartission des etapes pour l'utilisation
 
 [1.Nettoyer](./1.Nettoyage)
 
