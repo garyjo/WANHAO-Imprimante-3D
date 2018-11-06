@@ -1,4 +1,4 @@
-- Nettoyer -
+# Nettoyer -
 
 Avant de commencer à imprimer, il faut s’assurer que la plateforme soit propre. 
 Cela veut dire la nettoyer avec un produit avec au moins 70% d’alcool. 
