@@ -5,7 +5,7 @@
     C’est préférable d’utiliser du papier blanc avec une texture plus solide. 
     Il faut aussi nettoyer la tête de l’imprimante. 
     Dans ce cas, c’est préférable de chauffer la tête à 195 degrés et essuyer avec un papier sec. 
-    La chaleur aide à décoller certains morceaux de PLA::mu:: qui ont fondu sur la tête. 
+    La chaleur aide à décoller certains morceaux de PLA:one: qui ont fondu sur la tête. 
 
 ## Étapes pour nettoyer la plateforme:
 
@@ -46,4 +46,4 @@
     6.  Une fois que la tête est propre, vous pouvez éteindre l'imprimante et passer à la prochaine étape. 
 
     
-::mu::PLA est le materiel que la tête de l'imprimante fond pour ensuite construire les objets 3D. 
+:one:PLA est le materiel que la tête de l'imprimante fond pour ensuite construire les objets 3D. 
