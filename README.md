@@ -1,6 +1,6 @@
 # WANHAO-Imprimante-3D
 
-### Ce repertoire est en faite une documentation sur comment faire marcher l'imprimante 3D WANHAO.
+### Ce repertoire explique comment utiliser l'imprimante 3D WANHAO.
 
 #### Repartission des etapes pour l'utilisation
 
