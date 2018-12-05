@@ -10,7 +10,7 @@ La chaleur aide à décoller certains morceaux de PLA* qui ont fondu sur la têt
 Étapes pour nettoyer la plateforme:
     i.  Il faut commencer par lever la tête de l'imprimante, donc, pesez le bouton de réglage.
     
-    ![alt tag](https://github.com/garyjo/WANHAO-Imprimante-3D/blob/master/Images/20181029_115934.jpg)
+    ![alt text](https://github.com/garyjo/WANHAO-Imprimante-3D/blob/master/Images/20181029_115934.jpg)
    
    ii.  Naviguez vers 'Position' et le selectionner.
   
