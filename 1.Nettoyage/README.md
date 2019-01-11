@@ -7,6 +7,7 @@
     Dans ce cas, c’est préférable de chauffer la tête à 195 degrés et essuyer avec un papier sec. 
     La chaleur aide à décoller certains morceaux de PLA(1) qui ont fondu sur la tête. 
 
+
 ## Étapes pour nettoyer la plateforme:
 
     1.  Il faut commencer par lever la tête de l'imprimante, donc, pesez le bouton de réglage.
